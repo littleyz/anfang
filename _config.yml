@@ -1,101 +1,163 @@
 # Hao.jiangyu.org Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
+favicon: /favicon.ico
+banner: /images/webstack_banner_cn.png
 
-# Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+logo:
+  expanded: /images/logo@2x.png
+  collapsed: /images/logo-collapsed@2x.png
+  dark: /images/logo_dark@2x.png
 
-# URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
-permalink: :year/:month/:day/:title/
-permalink_defaults:
-pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+flag:
+  icon: flag-cn
+  name: Chinese
 
-# Directory
-source_dir: source
-public_dir: public
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
-code_dir: downloads/code
-i18n_dir: :lang
-skip_render:
+githubCorner: '<a href="https://github.com/HCLonely/hexo-theme-webstack" class="github-corner" aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>'
 
-# Writing
-new_post_name: :title.md # File name of new posts
-default_layout: post
-titlecase: false # Transform title into titlecase
-external_link:
-  enable: true # Open external links in new tab
-  field: site # Apply to the whole site
-  exclude: ''
-filename_case: 0
-render_drafts: false
-post_asset_folder: false
-relative_link: false
-future: true
-highlight:
-  enable: true
-  line_number: true
-  auto_detect: false
-  tab_replace: ''
-  wrap: true
-  hljs: false
+menu:
+  - name: 常用工具
+    icon: far fa-star
+    config: my
+  - name: 安防行业
+    icon: fas fa-shield-alt
+    submenu:
+      - name: 视频监控
+        icon: fas fa-video
+        config: video
+      - name: 图像传感器
+        icon: fas fa-photo-video
+        config: sensor
+      - name: 处理器DSP
+        icon: fas fa-microchip
+        config: dsp
+      - name: 模组方案商
+        icon: fas fa-cube
+        config: dsp
+      - name: P2P平台
+        icon: fas fa-cloud
+        config: dsp
+      - name: 系统平台
+        icon: fas fa-server
+        config: dsp
+      - name: 系统集成商
+        icon: fas fa-square-full
+        config: dsp
+      - name: AI智能算法
+        icon: fas fa-dna
+        config: dsp
+      - name: 行业网站
+        icon: fas fa-sitemap
+        config: dsp
+      - name: 热成像仪
+        icon: fas fa-thermometer-full
+        config: dsp
+      - name: 存储
+        icon: fas fa-hdd
+        config: dsp
+      - name: 镜头
+        icon: fas fa-circle
+        config: dsp
 
-# Home page setting
-# path: Root path for your blogs index page. (default = '')
-# per_page: Posts displayed per page. (0 = disable pagination)
-# order_by: Posts order. (Order by date descending by default)
-index_generator:
-  path: ''
-  per_page: 10
-  order_by: -date
+video:
+  - name: 海康威视
+    url: https://www.hikvision.com
+    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
+    description: 全球最大的视频安防产品提供商。
+  - name: 大华
+    url: https://www.dahuatech.com/
+    img: https://www.dahuatech.com/bocweb/web/img/logo.png
+    description: 中国第二大安防视频监控产品提供商。
+  - name: 宇视
+    url: https://cn.uniview.com/
+    img: https://cn.uniview.com/tres/images/Yushi_Site/blue/logo.png
+    description: 中国第三大安防视频监控产品提供商。
+  - name: 宇视
+    url: https://www.axis.com/zh-cn
+    img: https://www.axis.com/sites/all/themes/axis_bootstrap_subtheme/images/axis_logo.png
+    description: 全球第三大安防视频监控产品提供商。
 
-# Category & Tag
-default_category: uncategorized
-category_map:
-tag_map:
 
-# Metadata elements
-## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
-meta_generator: true
+sensor:
+  - name: SONY
+    url: https://www.sony-semicon.co.jp/e/
+    img: https://www.sony-semicon.co.jp/common/images/sony.gif
+    description: SONY图像传感器。
+  - name: OmniVision
+    url: https://www.ovt.com/
+    img: https://www.ovt.com/download/sites/14/share.jpg
+    description: 中资收购的美国图像传感器品牌。
+  - name: 思特威(smartsens)
+    url: http://www.smartsenstech.com/
+    img: http://www.smartsenstech.com/templates/sitewei/favicon.ico
+    description: 中国新兴的从事CMOS图像传感器芯片产品研发、设计及服务的企业。
 
-# Date / Time format
-## Hexo uses Moment.js to parse and display date
-## You can customize the date format as defined in
-## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
-time_format: HH:mm:ss
-## Use post's date for updated date unless set in front-matter
-use_date_for_updated: false
 
-# Pagination
-## Set per_page to 0 to disable pagination
-per_page: 10
-pagination_dir: page
+dsp:
+  - name: 华为海思
+    url: http://www.hisilicon.com/
+    img: http://www.hisilicon.com/Assets/Hisilicon/img/favicon.ico
+    description: 华为海思。
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 面向开源及私有软件项目的托管平台。
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 面向开源及私有软件项目的托管平台。
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 面向开源及私有软件项目的托管平台。
+    
+my:
+  - name: Wetransfer
+    url: https://wetransfer.com/
+    img: https://prod-cdn.wetransfer.net/packs/media/images/wt-facebook-9db47080.png
+    description: 短期文件存储分享网站。
+  - name: 奶牛快传
+    url: https://www.c-t.work/
+    img: https://background.cowtransfer.com/apple-icon-114x114.png
+    description: 国内山寨wetransfer的网站。
 
-# Include / Exclude file(s)
-## include:/exclude: options only apply to the 'source/' folder
-include:
-exclude:
-ignore:
+about:
+  url: /about/
+  icon: far fa-heart
+  name: 关于本站
 
-# Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-theme: webstack
+aboutPage:
+  website:
+    head: 关于本站
+    html: '<blockquote><p>本站是hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>的demo站。</p></blockquote>'
+  webmaster:
+    head: 关于站长
+    name: HCLonely
+    url: https://blog.hclonely.com/
+    img: /images/logos/myblog.png
+    description: 懒人一个
+    html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
 
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: ''
+since: 2020
+
+js:
+  jquery: /js/jquery-1.11.1.min.js
+  bootstrap: /js/bootstrap.min.js
+  TweenMax: /js/TweenMax.min.js
+  resizeable: /js/resizeable.min.js
+  joinable: /js/joinable.js
+  xenonApi: /js/xenon-api.min.js
+  xenonToggles: /js/xenon-toggles.min.js
+  xenonCustom: /js/xenon-custom.min.js
+  lozad: /js/lozad.min.js
+  html5shiv: /js/html5shiv.min.js
+  respond: /js/respond.min.js
+
+css:
+  fonts: //fonts.loli.net/css?family=Arimo:400,700,400italic
+  linecons: /css/fonts/linecons/css/linecons.min.css
+  fontawesome: /css/fonts/fontawesome/css/all.min.css
+  bootstrap: /css/bootstrap.min.css
+  xenonCore: /css/xenon-core.min.css
+  xenonComponents: /css/xenon-components.min.css
+  xenonSkins: /css/xenon-skins.min.css
+  nav: /css/nav.min.css
+
