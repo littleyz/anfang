@@ -45,8 +45,8 @@ menu:
         icon: fas fa-dna
         config: dsp
       - name: 消费类摄像机
-        icon: fas fa-circle
-        config: wificamera
+        icon: fas fa-wifi
+        config: dsp
       - name: 行业网站
         icon: fas fa-sitemap
         config: dsp
