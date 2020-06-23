@@ -121,6 +121,10 @@ my:
     url: https://www.c-t.work/
     img: https://background.cowtransfer.com/apple-icon-114x114.png
     description: 国内山寨wetransfer的网站。
+  - name: 在线PS
+    url: https://ps.gaoding.com/
+    img: https://ps.gaoding.com/favicon.ico
+    description: 在外面偶尔需要PS，但是电脑没装软件，可以使用网页版的在线PS。
 
 about:
   url: /about/
