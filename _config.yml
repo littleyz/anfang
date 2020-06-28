@@ -192,7 +192,10 @@ my:
     url: https://ps.gaoding.com/
     img: https://ps.gaoding.com/favicon.ico
     description: 在外面偶尔需要PS，但是电脑没装软件，可以使用网页版的在线PS。
-
+  - name: 百度脑图
+    url: https://naotu.baidu.com/
+    img: https://naotu.baidu.com/favicon.ico
+    description: 百度脑图，便捷的脑图编辑工具- 免安装 云存储。
 about:
   url: /about/
   icon: far fa-heart
