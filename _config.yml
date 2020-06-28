@@ -31,19 +31,19 @@ menu:
         config: dsp
       - name: 模组方案商
         icon: fas fa-cube
-        config: dsp
+        config: module
       - name: P2P平台
         icon: fas fa-cloud
-        config: dsp
+        config: P2P
       - name: 系统平台
         icon: fas fa-server
-        config: dsp
+        config: vms
       - name: 系统集成商
         icon: fas fa-square-full
-        config: dsp
+        config: supply
       - name: AI智能算法
         icon: fas fa-dna
-        config: dsp
+        config: AI
       - name: 消费类摄像机
         icon: fas fa-wifi
         config: dsp
@@ -103,15 +103,45 @@ dsp:
     url: https://www.ambarella.com.cn/
     img: https://www.ambarella.com.cn/wp-content/themes/ambarella/img/favicons/favicon.ico
     description: 安霸Ambarella。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-    
+  - name: Ingenic-北京君正
+    url: http://www.ingenic.com.cn/
+    img: http://www.ingenic.com.cn/image/logo.jpg
+    description: 北京君正集成电路股份有限公司。
+  - name: 国科微
+    url: http://www.gokemicro.com/
+    img: http://www.gokemicro.com/favicon.ico
+    description: 国科微电子股份有限公司。
+
+module:
+  - name:
+    url:
+    img:
+    description:
+ 
+P2P:
+  - name:
+    url:
+    img:
+    description:
+ 
+vms:
+  - name:
+    url:
+    img:
+    description:
+ 
+supply:
+  - name:
+    url:
+    img:
+    description:
+
+AI:
+  - name:
+    url:
+    img:
+    description:
+
 my:
   - name: Wetransfer
     url: https://wetransfer.com/
