@@ -99,10 +99,10 @@ dsp:
     url: http://www.hisilicon.com/
     img: http://www.hisilicon.com/Assets/Hisilicon/img/favicon.ico
     description: 华为海思。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
+  - name: 安霸
+    url: https://www.ambarella.com.cn/
+    img: https://www.ambarella.com.cn/wp-content/themes/ambarella/img/favicons/favicon.ico
+    description: 安霸Ambarella。
   - name: Github
     url: https://github.com/
     img: /images/logos/github.png
