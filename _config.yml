@@ -46,19 +46,19 @@ menu:
         config: AI
       - name: 消费类摄像机
         icon: fas fa-wifi
-        config: dsp
+        config: wifi
       - name: 行业网站
         icon: fas fa-sitemap
-        config: dsp
+        config: sitemap
       - name: 热成像仪
         icon: fas fa-thermometer-full
-        config: dsp
+        config: ir
       - name: 存储
         icon: fas fa-hdd
-        config: dsp
+        config: hdd
       - name: 镜头
         icon: fas fa-circle
-        config: dsp
+        config: lens
 
 video:
   - name: 海康威视
@@ -137,6 +137,36 @@ supply:
     description:
 
 AI:
+  - name:
+    url:
+    img:
+    description:
+
+wifi:
+  - name:
+    url:
+    img:
+    description:
+
+sitemap:
+  - name:
+    url:
+    img:
+    description:
+    
+ir:
+  - name:
+    url:
+    img:
+    description:    
+
+hdd:
+  - name:
+    url:
+    img:
+    description:
+
+lens:
   - name:
     url:
     img:
