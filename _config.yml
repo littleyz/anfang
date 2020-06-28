@@ -17,6 +17,13 @@ menu:
   - name: 常用工具
     icon: far fa-star
     config: my
+    submenu:
+     - name: 安防工具
+        icon: fas fa-video
+        config: tools
+  - name: 常用软件
+    icon: far fa-software
+    config: software
   - name: 安防行业
     icon: fas fa-shield-alt
     submenu:
