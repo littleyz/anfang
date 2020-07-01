@@ -162,7 +162,15 @@ sitemap:
     url: https://www.asmag.com.tw/
     img: https://www.asmag.com/images/asmag.ico
     description: A&S安防知识网台湾版。
+  - name: Information Security 資安人科技網
+    url: https://www.informationsecurity.com.tw/
+    img: https://www.informationsecurity.com.tw/images/info.ico
+    description: 台湾安防资讯网站。
 ir:
+  - name: 海康威视
+    url: https://www.hikvision.com
+    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
+    description: 全球最大的视频安防产品提供商。 
   - name: 海康威视
     url: https://www.hikvision.com
     img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
