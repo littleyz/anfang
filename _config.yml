@@ -158,10 +158,10 @@ wifi:
     description: 全球最大的视频安防产品提供商。
  
 sitemap:
-  - name: 海康威视
-    url: https://www.hikvision.com
-    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
-    description: 全球最大的视频安防产品提供商。
+  - name: A&S台湾版
+    url: https://www.asmag.com.tw/
+    img: https://www.asmag.com/images/asmag.ico
+    description: A&S安防知识网台湾版。
 ir:
   - name: 海康威视
     url: https://www.hikvision.com
