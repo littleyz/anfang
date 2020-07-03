@@ -216,7 +216,15 @@ videotool:
     url: https://www.dahuatech.com/support/work/#/home
     img: 
     description: 大华安防计算器。
- 
+  - name: Axis镜头选型计算
+    url: https://www.axis.com/en-us/tools/lens-calculator
+    img: https://www.axis.com/sites/all/themes/axis_bootstrap_subtheme/favicon.ico
+    description: Axis镜头选型计算工具。
+  - name: Axis工具
+    url: https://www.axis.com/en-us/tools
+    img: https://www.axis.com/sites/all/themes/axis_bootstrap_subtheme/favicon.ico
+    description: Axis工具
+    
 software:
   - name: itellyou
     url: https://next.itellyou.cn/
