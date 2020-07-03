@@ -222,7 +222,11 @@ my:
     url: https://smallpdf.com/cn
     img: https://smallpdf.com/favicon.png
     description: 功能一应俱全、简单好用的线上 PDF 工具。
-
+  - name: 在线电视
+    url: http://ivi.bupt.edu.cn/
+    img: 
+    description: 在线电视信号资源，以备不时之需。
+    
 videotool:
   - name: 海康安防计算器
     url: https://h5proxy.hikvision.com/jf/videocal/index.html#/
