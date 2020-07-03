@@ -116,10 +116,26 @@ dsp:
     url: http://www.ingenic.com.cn/
     img: http://www.ingenic.com.cn/image/logo.jpg
     description: 北京君正集成电路股份有限公司。
-  - name: 国科微
+  - name: 国科
     url: http://www.gokemicro.com/
     img: http://www.gokemicro.com/favicon.ico
     description: 国科微电子股份有限公司。
+  - name: 富瀚
+    url: https://www.fullhan.com/
+    img: https://www.fullhan.com/theme/fuhan/images/logo.png
+    description: 上海富瀚微电子股份有限公司。
+  - name: Nextchip
+    url: http://nextchip.com/
+    img: http://www.nextchip.com/ch/images/favi_icon.ico
+    description: Nextchip.
+  - name: Techpoint
+    url: http://techpointinc.net/
+    img: http://techpointinc.net/images/logo.jpg
+    description: Techpoint.
+  - name: XM
+    url: http://www.xiongmaitech.com/
+    img: http://www.xiongmaitech.com/favicon.ico
+    description: 雄迈集成电路有限公司。
 
 module:
   - name: 海康威视
