@@ -248,6 +248,11 @@ videotool:
     url: https://www.axis.com/en-us/tools
     img: https://www.axis.com/sites/all/themes/axis_bootstrap_subtheme/favicon.ico
     description: Axis工具
+  - name: JVSG
+    url: http://cn.jvsg.com/
+    img: 
+    description: 功能比较强大的安防视频监控设计工具软件，但是是收费的。
+    
     
 software:
   - name: itellyou
