@@ -192,10 +192,14 @@ ir:
     img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
     description: 全球最大的视频安防产品提供商。 
 lens:
-  - name: 海康威视
-    url: https://www.hikvision.com
-    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
-    description: 全球最大的视频安防产品提供商。
+  - name: 富士镜头
+    url: http://www.fujifilm.com.cn/products/optical_devices/
+    img: http://mvlens.fujifilm.com/favicon.ico
+    description: 富士镜头。
+  - name: 宇瞳镜头
+    url: http://www.ytot.cn/
+    img: 
+    description: 宇瞳镜头。
 hdd:
   - name: 海康威视
     url: https://www.hikvision.com
@@ -226,7 +230,7 @@ my:
     url: http://ivi.bupt.edu.cn/
     img: 
     description: 在线电视信号资源，以备不时之需。
-  - name: 在线电视
+  - name: unsplash
     url: https://unsplash.com/
     img: https://unsplash.com/favicon-32x32.png
     description: 免费版权的图片素材网站。
