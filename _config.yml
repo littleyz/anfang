@@ -200,6 +200,14 @@ lens:
     url: http://www.ytot.cn/
     img: 
     description: 宇瞳镜头。
+  - name: Kowa
+    url: https://www.kowa.co.jp/eng/index.htm
+    img: 
+    description: 日本Kowa。
+  - name: Computar
+    url: https://computar.com/
+    img: 
+    description: Computar。
 hdd:
   - name: 海康威视
     url: https://www.hikvision.com
