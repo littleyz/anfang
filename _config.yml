@@ -216,6 +216,10 @@ lens:
     url: http://www.sunnyoptical.com/
     img: 
     description: 舜宇光学。
+  - name: Seiko
+    url: http://www.seiko-optic.com/seiko/indexcn.html
+    img: 
+    description: 日本精工镜头。
 hdd:
   - name: 海康威视
     url: https://www.hikvision.com
