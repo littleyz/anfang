@@ -208,6 +208,14 @@ lens:
     url: https://computar.com/
     img: 
     description: Computar。
+  - name: 凤凰镜头
+    url: http://www.phenixoptics.com.cn/
+    img: 
+    description: 凤凰镜头。
+  - name: 舜宇光学
+    url: http://www.sunnyoptical.com/
+    img: 
+    description: 舜宇光学。
 hdd:
   - name: 海康威视
     url: https://www.hikvision.com
