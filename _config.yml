@@ -68,7 +68,9 @@ menu:
       - name: 镜头
         icon: fas fa-circle
         config: lens
-
+      - name: 行业组织
+        icon: fas fa-org
+        config: org
 video:
   - name: 海康威视
     url: https://www.hikvision.com
@@ -276,7 +278,12 @@ videotool:
     url: http://cn.jvsg.com/
     img: 
     description: 功能比较强大的安防视频监控设计工具软件，但是是收费的。
-    
+
+org:
+  - name: 国际电联
+    url: https://www.itu.int/zh/Pages/default.aspx
+    img: https://www.itu.int/PublishingImages/masterpage/logos/itu-favicon.ico
+    description: 国际电联。   
     
 software:
   - name: itellyou
