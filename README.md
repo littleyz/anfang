@@ -40,7 +40,7 @@ list of SoC, sensor and ISP for security products such as IPC, NVR, analog camer
 
 
 ### 晨星(Mstar)/星宸(SigmaStar)
->晨星，Mstar，台湾的芯片厂家，被联发科收购。产品型号以MSC开头，现在多被星宸取代，与其渊源很深。
+>晨星，Mstar，台湾的芯片厂家，被联发科收购。产品型号以MSC开头，现在多被星宸取代，与其渊源很深。     
 >星宸，SigmaStar，总部厦门，对外宣称技术团队来源于晨星。IPC类产品种类很齐全，从200万到4K均有，产品型号以SSC, SSR开头。
 
 | Model | Description |
