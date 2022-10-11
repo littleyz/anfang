@@ -41,15 +41,23 @@ list of SoC, sensor and ISP for security products such as IPC, NVR, analog camer
 
 ### 晨星(Mstar)/星宸(SigmaStar)
 >晨星，Mstar，台湾的芯片厂家，被联发科收购。产品型号以MSC开头，现在多被星宸取代，与其渊源很深。     
->星宸，SigmaStar，总部厦门，对外宣称技术团队来源于晨星。IPC类产品种类很齐全，从200万到4K均有，产品型号以SSC, SSR开头。
+>星宸，[SigmaStar](https://www.sigmastar.com.cn/)，总部厦门，对外宣称技术团队来源于晨星。IPC类产品种类很齐全，从200万到4K均有，产品型号以SSC, SSR开头。
 
 | Model | Description |
 | --- | --- |
-| NT98566 | arm Cortex A9 CPU@max. 1GHz.1G DDR.相当于Hi3516EV300 |
-| NT98562 | arm Cortex A9 CPU@max. 1GHz.512MB DDR.相当于Hi3516EV200 |
-| NT98520 | 相当于Hi3516CV500 |
-| NT98525 | 相当于Hi3516DV300 |
-| NT98528 | 相当于Hi3516AV300 |
+| MSC335 | 2/3MP smart home IPC, low power. |
+| SSC335 | arm Cortex-A7@800Mhz.512MB DDR2.3MP IPC.相当于3516EV200. |
+| SSC338 |  |
+| SSC338Q | 4K@20FPS.2Gb DDR(SSC338D带1Gb DDR).0.5T算力.相当于Hi3516DV300. |
+| SSC338G | 4K@20FPS.不带DDR.1T算力.相当于Hi3516DV300. |
+| SSC339G | 4K@30fps.不带DDR.1T算力. |
+| SSC336Q | 内置2Gb	DDR(SSC336D自带1Gb DDR).3MP@30FPS.0.5T算力.相当于Hi3516CV500. |
+| SSC337DE | 内置1Gb	DDR.5MP@20FPS,1080P@60FPS.相当于Hi3516EV300. |
+| SSC30KD/KQ | 5MP@30FPS,分别内置1Gb和2Gb DDR，带0.5T AI算力。|
+| SSC359G |ARM Cortex-A53 Dual Core with max. 1.2GHz.12M@25fps.|
+
+
+
 
 ### 智源/升迈
 智源，Grain Media，改名升迈，被联咏收购，代表作GM8135S，常用于消费类200万Wi-Fi IPC。
