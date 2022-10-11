@@ -57,12 +57,26 @@ list of SoC, sensor and ISP for security products such as IPC, NVR, analog camer
 
 
 
-
 ### 智源/升迈
 >智源，Grain Media，改名升迈，被联咏收购，代表作GM8135S，常用于消费类200万Wi-Fi IPC。
 
 ### 富瀚微
->富瀚微， fullhan，位于上海，海康威视的关联公司，主要产品是模拟摄像机ISP，IPC SOC。代表作FH8858V200（800万 IPC SOC） ,FH8856V200（500万 IPC SOC）,FH8852V200（200万 IPC SOC）。
+>[富瀚微](https://www.fullhan.com/)， fullhan，位于上海，海康威视的关联公司，主要产品是模拟摄像机ISP，IPC SOC。代表作FH8858V200（800万 IPC SOC） ,FH8856V200（500万 IPC SOC）,FH8852V200（200万 IPC SOC）。
+
+
+| Model | Description |
+| --- | --- |
+| FH8858V200 | 8MP15fps,外接DDR |
+| FH8856V200 | 5MP25fps,内置128MB DDR |
+| FH8658 | 5MP20fps,0.5T,外接DDR |
+| FH8856V210 | 5MP25fps,内置128MB DDR |
+| FH8852V200 | 4MP20fps,内置64MB DDR |
+| FH8656 | 4MP25fps,0.5T,内置128MB DDR |
+| FH8852V210 | 4MP20fps,内置64MB DDR |
+| FH8652 | 3MP20fps,0.5T,内置64MB DDR |
+| FH8852V201 | 3MP25fps,0.5T,内置64MB DDR |
+| FH8636 | 3MP25fps,0.5T.内置64MB DDR |
+
 
 ### 安凯
 >安凯 ，anyka，位于广州。代表作AK3918E，用于200万消费类Wi-Fi摄像机。
