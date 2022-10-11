@@ -38,16 +38,21 @@ list of SoC, sensor and ISP for security products such as IPC, NVR, analog camer
 | NT98525 | 相当于Hi3516DV300 |
 | NT98528 | 相当于Hi3516AV300 |
 
-### XM(雄迈)
 
+### 晨星(Mstar)/星宸(SigmaStar)
+>晨星，Mstar，台湾的芯片厂家，被联发科收购。产品型号以MSC开头，现在多被星宸取代，与其渊源很深。
+>星宸，SigmaStar，总部厦门，对外宣称技术团队来源于晨星。IPC类产品种类很齐全，从200万到4K均有，产品型号以SSC, SSR开头。
 
-
-### 晨星/星宸
-晨星，Mstar，台湾的芯片厂家，被联发科收购。产品型号以MSC开头，现在多被星宸 取代，与其应该渊源很深。
-星宸，SigmaStar，总部厦门，对外宣称技术团队来源于 晨星。IPC类产品种类很齐全，从200万到4K均有，产品型号以SSC, SSR开头。官网上产品分类都在模仿海思。
+| Model | Description |
+| --- | --- |
+| NT98566 | arm Cortex A9 CPU@max. 1GHz.1G DDR.相当于Hi3516EV300 |
+| NT98562 | arm Cortex A9 CPU@max. 1GHz.512MB DDR.相当于Hi3516EV200 |
+| NT98520 | 相当于Hi3516CV500 |
+| NT98525 | 相当于Hi3516DV300 |
+| NT98528 | 相当于Hi3516AV300 |
 
 ### 智源/升迈
-智源，Grain Media，改名升迈，被联咏收购，代表作GM8135S，常用于消费类200万Wi-FiIPC。
+智源，Grain Media，改名升迈，被联咏收购，代表作GM8135S，常用于消费类200万Wi-Fi IPC。
 
 ### 富瀚微
 富瀚微， fullhan，位于上海，海康威视的关联公司，主要产品是模拟摄像机ISP，IPC SOC。代表作FH8858V200（800万 IPC SOC） ,FH8856V200（500万 IPC SOC）,FH8852V200（200万 IPC SOC）。
@@ -73,7 +78,7 @@ Ti，德州仪器，美国的半导体公司，早期在IPC SOC领域市场认�
 ### 齐感
 齐感 ，SensLab，位于上海，边缘人工智能芯片的开发和解决方案的提供。代表作QG2101B，用于小蚁科技的YI IOT方案IPC。
 
-### 雄迈
+### XM(雄迈)
 雄迈，XM，位于杭州，主要从事安防模组的设计研发，最近也推出了一批安防芯片，设计模拟摄像机，IPC，DVR，NVR等。比如XM330（模拟200万摄像机 ISP），XM350 （模拟500万摄像机 ISP） ，XM380 （模拟800万摄像机 ISP） ，XM530 （200万 IPC SOC） ，XM550 （500万 IPC SOC） ，XM650 （低功耗，消费类 IPC SOC） ，XM8520 （4路 1080P25 DVR SOC） ，XM8536D （NVR SOC） 。
 
 ## ISP for camera
