@@ -2,10 +2,11 @@ list of SoC, sensor and ISP for security products such as IPC, NVR, analog camer
 
 ## SoC for IP camera
 ### Goke(国科)
+
 | Model | Description |
 | --- | --- |
 | GK7205V300 | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| GK7605V100 | Show file differences that haven't been staged |
 
 
 ### Novatek(联咏)
