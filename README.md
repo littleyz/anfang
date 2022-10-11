@@ -3,6 +3,7 @@ list of SoC, sensor and ISP for security products such as IPC, NVR, analog camer
 ## SoC for IP camera
 
 ### Hisilicon(海思)
+
 | Model | Description |
 | --- | --- |
 |3518EV300|（消费类 200万，300万IPC）|
