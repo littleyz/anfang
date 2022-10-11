@@ -5,12 +5,12 @@ list of SoC, sensor and ISP for security products such as IPC, NVR, analog camer
 
 | Model | Description |
 | --- | --- |
-| GK7205V300 | ARM CortexA7@900MHz.32KB I-Cache,32KBD-Cache,128KB L2 Cache.1Gb DDR3L.PIN to PIN Hi3516EV300 |
-| GK7205V200 | PIN to PIN Hi3516EV200 | 
-| GK7202V300 | Hi3518EV300 |
-| GK7605V100 | 3516DV200 |
-| GK7102 | |
-| GK7202 | |
+| GK7205V300 | ARM CortexA7@900MHz.32KB I-Cache,32KBD-Cache,128KB L2 Cache.1Gb DDR3L.Pin to Pin with Hi3516EV300.Up to 5MP IPC |
+| GK7205V200 | ARM CortexA7@900MHz.512Mb DDR2.Pin to Pin with Hi3516EV200.For 2/3/4MP IPC. | 
+| GK7202V300 | ARM Cortex A7@900MHz.512Mb DDR2.Pin to Pin with Hi3518EV300.For smart home camera, low power. |
+| GK7605V100 | ARM Cortex A7@900MHz.4Gb DDR3/DDR3L.Pin to Pin with 3516DV200. |
+| GK7102 | 1/1.3MP IPC |
+| GK7202 | 2MP IPC |
 
 
 ### Novatek(联咏)
