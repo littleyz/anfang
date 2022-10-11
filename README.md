@@ -12,14 +12,15 @@ list of SoC, sensor and ISP for security products such as IPC, NVR, analog camer
 | GK7102 | 1/1.3MP IPC |
 | GK7202 | 2MP IPC |
 
-
 ### Novatek(联咏)
 
 | Model | Description |
 | --- | --- |
-| NT98566 |  |
-| NT98562 |  |
-
+| NT98566 | arm Cortex A9 CPU@max. 1GHz.1G DDR.相当于Hi3516EV300 |
+| NT98562 | arm Cortex A9 CPU@max. 1GHz.512MB DDR.相当于Hi3516EV200 |
+| NT98520 | 相当于Hi3516CV500 |
+| NT98525 | 相当于Hi3516DV300 |
+| NT98528 | 相当于Hi3516AV300 |
 
 ### XM(雄迈)
 
