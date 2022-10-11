@@ -5,16 +5,18 @@ list of SoC, sensor and ISP for security products such as IPC, NVR, analog camer
 
 | Model | Description |
 | --- | --- |
-| GK7205V300 | List all new or modified files |
-| GK7605V100 | Show file differences that haven't been staged |
+| GK7205V300 |  |
+| GK7205V200 |  | 
+| GK7202V300 |  |
+| GK7605V100 |  |
 
 
 ### Novatek(联咏)
 
 | Model | Description |
 | --- | --- |
-| GK7205V300 | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| GK7205V300 |  |
+| git diff |  |
 
 ## ISP for camera
 
