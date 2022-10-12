@@ -1,3 +1,7 @@
+---
+---
+
+@import "jekyll-theme-modernist";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,300,700');
 html {
   background:#6C7989;
@@ -11,7 +15,7 @@ body {
   font:14px/1.5 Open Sans, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#555;
   font-weight:300;
-  background:url('../images/checker.png') fixed;
+  background:url() fixed;
   min-height: calc(100% - 100px);
 }
 
