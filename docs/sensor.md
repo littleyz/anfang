@@ -1,4 +1,4 @@
-?> CMOS Image Sensors for Security Cameras
+> CMOS Image Sensors for Security Cameras
 
 ## SONY
 
