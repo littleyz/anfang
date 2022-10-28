@@ -24,10 +24,10 @@ list of SoC for ipcamera, DVR, NVR and ISP for security camera. Keep update!
 
 | Model | Description |
 | --- | --- |
-| GK7205V300 | ARM CortexA7@900MHz.32KB I-Cache,32KBD-Cache,128KB L2 Cache.1Gb DDR3L.Pin to Pin with Hi3516EV300.Up to 5MP IPC |
-| GK7205V200 | ARM CortexA7@900MHz.512Mb DDR2.Pin to Pin with Hi3516EV200.For 2/3/4MP IPC. | 
-| GK7202V300 | ARM Cortex A7@900MHz.512Mb DDR2.Pin to Pin with Hi3518EV300.For smart home camera, low power. |
-| GK7605V100 | ARM Cortex A7@900MHz.4Gb DDR3/DDR3L.Pin to Pin with 3516DV200. |
+| GK7205V300 | ARM CortexA7 @900MHz.32KB I-Cache,32KBD-Cache,128KB L2 Cache.1Gb DDR3L.Pin to Pin with Hi3516EV300.Up to 5MP IPC |
+| GK7205V200 | ARM CortexA7 @900MHz.512Mb DDR2.Pin to Pin with Hi3516EV200.For 2/3/4MP IPC. | 
+| GK7202V300 | ARM Cortex A7 @900MHz.512Mb DDR2.Pin to Pin with Hi3518EV300.For smart home camera, low power. |
+| GK7605V100 | ARM Cortex A7 @900MHz.4Gb DDR3/DDR3L.Pin to Pin with 3516DV200. |
 | GK7102 | 1/1.3MP IPC |
 | GK7202 | 2MP IPC |
 
@@ -35,8 +35,8 @@ list of SoC for ipcamera, DVR, NVR and ISP for security camera. Keep update!
 
 | Model | Description |
 | --- | --- |
-| NT98566 | arm Cortex A9 CPU@max. 1GHz.1G DDR.相当于Hi3516EV300 |
-| NT98562 | arm Cortex A9 CPU@max. 1GHz.512MB DDR.相当于Hi3516EV200 |
+| NT98566 | arm Cortex A9 CPU @max. 1GHz.1G DDR.相当于Hi3516EV300 |
+| NT98562 | arm Cortex A9 CPU @max. 1GHz.512MB DDR.相当于Hi3516EV200 |
 | NT98520 | 相当于Hi3516CV500 |
 | NT98525 | 相当于Hi3516DV300 |
 | NT98528 | 相当于Hi3516AV300 |
@@ -49,13 +49,13 @@ list of SoC for ipcamera, DVR, NVR and ISP for security camera. Keep update!
 | Model | Description |
 | --- | --- |
 | MSC335 | 2/3MP smart home IPC, low power. |
-| SSC335 | arm Cortex-A7@800Mhz.512MB DDR2.3MP IPC.相当于3516EV200. |
-| SSC338Q | 4K@20FPS.2Gb DDR(SSC338D带1Gb DDR).0.5T算力.相当于Hi3516DV300. |
-| SSC338G | 4K@20FPS.不带DDR.1T算力.相当于Hi3516DV300. |
-| SSC339G | 4K@30fps.不带DDR.1T算力. |
-| SSC336Q | 内置2Gb	DDR(SSC336D自带1Gb DDR).3MP@30FPS.0.5T算力.相当于Hi3516CV500. |
-| SSC337DE | 内置1Gb	DDR.5MP@20FPS,1080P@60FPS.相当于Hi3516EV300. |
-| SSC30KD/KQ | 5MP@30FPS,分别内置1Gb和2Gb DDR，带0.5T AI算力。|
+| SSC335 | arm Cortex-A7 @800Mhz.512MB DDR2.3MP IPC.相当于3516EV200. |
+| SSC338Q | 4K @20FPS.2Gb DDR(SSC338D带1Gb DDR).0.5T算力.相当于Hi3516DV300. |
+| SSC338G | 4K @20FPS.不带DDR.1T算力.相当于Hi3516DV300. |
+| SSC339G | 4K @30fps.不带DDR.1T算力. |
+| SSC336Q | 内置2Gb	DDR(SSC336D自带1Gb DDR).3MP @30FPS.0.5T算力.相当于Hi3516CV500. |
+| SSC337DE | 内置1Gb	DDR.5MP @20FPS,1080P @60FPS.相当于Hi3516EV300. |
+| SSC30KD/KQ | 5MP @30FPS,分别内置1Gb和2Gb DDR，带0.5T AI算力。|
 | SSC359G |ARM Cortex-A53 Dual Core with max. 1.2GHz.12M@25fps.|
 
 
