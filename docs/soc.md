@@ -1,7 +1,7 @@
 
 
 >Security product solutions(SPS).
-list of SoC, sensor and ISP for security products such as IPC, NVR, analog camera and DVR. Keep update!
+list of SoC for ipcamera, DVR, NVR and ISP for security camera. Keep update!
 
 ## SoC for IP camera
 
