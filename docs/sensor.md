@@ -72,4 +72,8 @@ IMX533 | STARVIS, 1, AR Coat, 9MP, 3.76(μm), 0.13(SNR1s), 64frame/s, DOL HDR
 ## 长光辰芯
 
 ## 成都微光
-MIS2006
+Model | Description
+--- | ---
+MIS2006 | 1/2.9, 2MP, 30fps, 2.8(μm)
+
+via: [成都微光集电科技](http://imgds.com/)
