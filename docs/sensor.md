@@ -33,7 +33,7 @@ IMX412 | STARVIS, 1/2.3, AR Coat, 12.3MP, 1.55(μm),	1.33(SNR1s), 60frame/s, DOL
 IMX294 | STARVIS, 4/3, AR Coat, 10.3MP, 4.63(μm), 0.14(SNR1s), 60frame/s
 IMX533 | STARVIS, 1, AR Coat, 9MP, 3.76(μm), 0.13(SNR1s), 64frame/s, DOL HDR
 
-
+*via：[SONY Security Camera Image Sensor](https://www.sony-semicon.com/cn/products/is/security/security.html)*
 
 
 ## SmartSens
