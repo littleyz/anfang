@@ -50,6 +50,7 @@ list of SoC for ipcamera, DVR, NVR and ISP for security camera. Keep update!
 | --- | --- |
 | MSC335 | 2/3MP smart home IPC, low power. |
 | SSC335 | arm Cortex-A7 @800Mhz.512MB DDR2.3MP IPC.相当于3516EV200. |
+| SSC328Q | 4K @20FPS.Cortex A7 + 256MB DDR3 |
 | SSC338Q | 4K @20FPS.2Gb DDR(SSC338D带1Gb DDR).0.5T算力.相当于Hi3516DV300. |
 | SSC338G | 4K @20FPS.不带DDR.1T算力.相当于Hi3516DV300. |
 | SSC339G | 4K @30fps.不带DDR.1T算力. |
