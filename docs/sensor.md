@@ -25,7 +25,6 @@ IMX462 | STARVIS, 1/2.8, AR Coat, 2MP, 2.9(μm),	0.17(SNR1s), 120frame/s, DOL HD
 IMX327 | STARVIS, 1/2.8, 2MP, 2.9(μm), 0.18(SNR1s),	60frame/s, DOL HDR
 IMX327 | STARVIS, 1/2.8, AR Coat, 2MP, 2.9(μm),	0.17(SNR1s), 60frame/s, DOL HDR
 IMX307 | STARVIS, 1/2.8, 2MP, 2.9(μm), 0.24(SNR1s),	60frame/s, DOL HDR
-IMX307 | STARVIS, 1/2.8, 2MP, 2.9(μm), 0.24(SNR1s),	60frame/s, DOL HDR
 IMX455 | STARVIS, 2.7, AR Coat, 61.2MP, 3.76(μm), 0.15(SNR1s), 21frame/s, DOL HDR
 IMX571 | STARVIS, 1.8, AR Coat, 26.1MP, 3.76(μm), 0.15(SNR1s), 48frame/s, DOL HDR
 IMX226 | STARVIS, 1/1.7, 12.4MP, 1.85(μm), 0.95(SNR1s),	40frame/s
