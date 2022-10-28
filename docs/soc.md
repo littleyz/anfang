@@ -114,8 +114,6 @@ AX620A 4K@30FPS
 ## ISP for camera
 
 
-## Sensor for camera
-
 
 ## SoC for DVR, NVR
 DVR/NVR SOC
