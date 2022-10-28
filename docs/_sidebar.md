@@ -1,8 +1,9 @@
 <!-- docs/_sidebar.md -->
 
-- 相关
+- 硬件
 
-  - [图像传感器](sensor.md)
+  - [Sensor](sensor.md)
+  - [SoC](soc.md)
 
 
 - [更新记录](CHANGELOG.md)
