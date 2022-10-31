@@ -8,3 +8,7 @@ XM713G
 
 **Hi3861LV100**
 
+
+## Realtek
+**RTL8188FTV**
+
