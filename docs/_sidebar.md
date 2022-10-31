@@ -4,6 +4,7 @@
 
   - [Sensor](sensor.md)
   - [SoC](soc.md)
+  - [Wi-Fi](wifi.md)
   - [模组](module.md)
 
 
