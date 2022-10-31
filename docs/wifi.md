@@ -12,3 +12,6 @@ XM713G
 ## Realtek
 **RTL8188FTV**
 
+
+## Ralink
+**Ralink3070**
