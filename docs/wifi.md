@@ -6,4 +6,5 @@ XM713G
 
 ## Hisilicon
 
-HI3861L
+**Hi3861LV100**
+
